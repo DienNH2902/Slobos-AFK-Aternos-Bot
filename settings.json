@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ta1vn.aternos.me:55758",
+    "ip": "ta1vn.aternos.me",
     "port": 55758,
     "version": "1.21.10",
     "try-creative": false
